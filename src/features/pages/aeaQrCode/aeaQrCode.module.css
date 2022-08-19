@@ -1,0 +1,14 @@
+.link_container {
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    
+}
+.logo_container{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    border-bottom: 2px solid darkblue;
+    margin-bottom: 20px;
+}
